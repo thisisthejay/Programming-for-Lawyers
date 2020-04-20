@@ -36,7 +36,9 @@ The initial part of the programme won't require any installation of software.  B
 
 #### Create a GitHub Account
 
-You should setup a [GitHub](https://github.com/) account.  GitHub is platform where code is stored and shared for projects big and small - just like this one.  Having an account will be useful as you can use it as a gateway to a large number of programming resoruces.  By having a GitHub account you won't have to have uniqiue login credentials for other websites you use where GitHub authentication is supported. You'll discover that GitHub is referred to in a lot of resrouces and it is important to become comfortable with it and the underlying *version control* protocol itself called Git.
+You should setup a [GitHub](https://github.com/) account.  GitHub is platform where code is stored and shared for projects big and small - just like this one.  Having an account will be useful as you can use it as a gateway to a large number of programming resoruces.  By having a GitHub account you won't have to have uniqiue login credentials for other websites you use where GitHub authentication is supported. 
+
+You'll discover as we progress that GitHub is referred to in a lot of resrouces and it is important to become comfortable with it and the underlying *version control* protocol itself called Git.
 
 #### Install a code editor
 
