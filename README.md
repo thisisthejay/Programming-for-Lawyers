@@ -1,6 +1,8 @@
-# Programming-for-Lawyers
+# Programming for Lawyers
 
-An introduction to programming for lawyers!
+An introduction to programming for lawyers!  
+
+_N.B. This programme is open to everyone but has been designed with an emphasis on helping laywers at Thrings LLP learn how to code._
 
 ## Welcome
 
