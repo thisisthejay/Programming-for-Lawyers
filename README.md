@@ -4,6 +4,8 @@ An introduction to programming for lawyers!
 
 _N.B. This programme is open to everyone but has been designed with an emphasis on helping laywers at Thrings LLP learn how to code._
 
+![Banner](/images/pfllogo.png)
+
 ## Welcome
 
 Hello and welcome to the programme.  This repository will evolve as we progress and is intended to be shaped to our collective needs.  I hope to collaborate with lawyers who are either experienced programmers and those who are ready to explore new ways or working and, importantly, new ways of *thinking*. 
