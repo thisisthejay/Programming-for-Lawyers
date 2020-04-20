@@ -46,16 +46,53 @@ You can write code in simple text editors but your experience will be enahced if
 
 You may find that eventually you reach the contraints of browser based code editors and want to install something locally. _I recommend that you install_ [VS Code](https://code.visualstudio.com/download) - it is a superb free code editor and has a lot of tools and plugins to boost your productivity.
 
+#### Preparing for success
+
+Most people are very capabe of learning new complex subjects.  What stops the majority of people from achieving meaningful results is not their ability per se, but their ability to manage their time and motivation.
+
+If, like me, you have a number of other commitments (such as work, family life and maintaing your health) it can be overwhelming to begin a new challenge - particularly one which is self-led.  
+
+Here are my top 3 tips:
+
+**(1) Code little and often**
+
+It is better to code for 5 hours over 5 days than to spend all day on a weekend bingeing.  Developing a regular *habit* will serve you well and make it more manageable.  
+
+I recommend that you read or listen to [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear. 
+
+Setting aside a regular time in your day or throughout the week will help you and manage the expecations of other people around you.  My most productive learning phase was when I used my lunchbreaks for around a year months to complete freeCodeCamp's JavaScript exercises.
+
+**(2) Determine "why" you want to learn to code**
+
+Focus on *why* you want to learn to code.  Don't just do it because you think it's cool or because you don't want to focus on another important goal.  
+
+My own "why" was that I was extremely frustrated at
+
+- being unable to build my ideas without paying someone to help me
+- not leveraging resources I had access to at work
+- not maximising my productivity
+
+Once you understand *your* "why" you will give it the priorty it deserves (or move on to something else more important).
+
+**(3) Be accountable**
+
+If you are able to, I recommend that you pair-up with a friend or colleague to learn with.  Learning with someone provides a point of reference for sharing ideas, challenges and some external pressure to keep you motivated. 
+
+There are two further concepts which helped me become accountable.  These are:
+
+- taking the [**#100DaysOfCode**](https://www.100daysofcode.com) challenge (coding for 1 hour a day every day and tweeting your progress)
+- learning in public [**#learninpublic**](https://www.swyx.io/writing/learn-in-public/) (publicly sharing the knowledge you acquire as you learn)
+
 
 ## Chapter 1: An introduction to Python
 
-If we are going to learn how to code, we must pick a programming language.  Python is an excellent choice for, particulalry for lawyers. Python is an appealing choice for a number of reasons, for example it:
+If we are going to learn how to code, we must pick a programming language!  Python is an excellent choice for, particulalry for lawyers. Python is an appealing choice for a number of reasons, for example it:
 
 - has a shallow learning curve
 - is versatile
 - is popular for automating tasks
-- has large number of libraries 
-- can be used for AI and data science 
+- has large number of libraries
+- can be used for AI and data science
 
 ### Learning the fundamentals
 
