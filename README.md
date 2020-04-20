@@ -35,7 +35,7 @@ In order to access the resources shsared in this programme, I recommend:
 
 The initial part of the programme won't require any installation of software.  But you may want to work at your own (perhaps faster) pace so I have set out some options below. 
 
-*N.B. You can come back to these recommendations later and get started with [Chapter 1](#chapter-1) as you won't need them yet.*
+*N.B. You can come back to these recommendations later and get started with [Chapter 1](#chapter-1) after creating your GitHub account and only if you are ready to dive in.*
 
 #### Create a GitHub Account
 
