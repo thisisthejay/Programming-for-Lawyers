@@ -6,7 +6,7 @@ _N.B. This programme is open to everyone but has been designed with an emphasis 
 
 ## Welcome
 
-Hello and weclcome to the programme.  This repository will evolve as we progress and is intended to be shaped to our collective needs.  I hope to collaborate with lawyers who are either experienced programmers and those who are ready to explore new ways or working and, importantly, new ways of *thinking*. 
+Hello and welcome to the programme.  This repository will evolve as we progress and is intended to be shaped to our collective needs.  I hope to collaborate with lawyers who are either experienced programmers and those who are ready to explore new ways or working and, importantly, new ways of *thinking*. 
 
 I wrote an article about why I think lawyers have the ability (at least in theory) to be good programmers.  You can read it [here](https://medium.com/datadriveninvestor/why-lawyers-should-make-great-developers-155f73304d0).  I have since met and connected with lots of lawyers who code, coders who practice law, lawyers who (like me) have started LegalTech companies and everyone in between!  
 
