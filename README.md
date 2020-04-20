@@ -59,17 +59,17 @@ Here are my top 3 tips:
 
 **(1) Code little and often**
 
-It is better to code for 5 hours over 5 days than to spend all day on a weekend bingeing.  Developing a regular *habit* will serve you well and make it more manageable.  
+It is better to code for 5 hours over 5 days than to spend all day on a weekend bingeing.  Developing a regular *habit* will serve you well and make learning more manageable.  
 
 I recommend that you read or listen to [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear. 
 
-Setting aside a regular time in your day or throughout the week will help you and manage the expecations of other people around you.  My most productive learning phase was when I used my lunchbreaks for around a year months to complete freeCodeCamp's JavaScript exercises.
+Setting aside a regular time in your day or throughout the week will help you and manage the expecations of other people around you.  My most productive learning phase was when I used my lunchbreaks for around a year to complete freeCodeCamp's JavaScript exercises.
 
 **(2) Determine "why" you want to learn to code**
 
 Focus on *why* you want to learn to code.  Don't just do it because you think it's cool or because you don't want to focus on another important goal.  
 
-My own "why" was that I was extremely frustrated at
+My own "why" was that I was extremely frustrated at:
 
 - being unable to build my ideas without paying someone to help me
 - not leveraging resources I had access to at work
@@ -111,7 +111,7 @@ It is important to start with the fundamentals when learning any programming lan
 
 **Bonus**: If you want more video resources then I recommend this [Python Crash Course](https://youtu.be/JJmcL1N2KQs) by Brad Traversy.
 
-
+*N.B. I will be learning along with you as I only recently began leanring Python.  We are in this together!*
 
 ## Chapter 2: Your first (small) project
 
