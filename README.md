@@ -16,11 +16,11 @@ So, let's begin.
 
 I'm Jay, a laywer and programmer.  I'm not particularly keen on titles but I gravitate towards what some people describe as a "legal techologist".  I read Economics at university and started my career in law as a paralegal shortly after graduation.  I began my coding journey a few years ago and it has been extremly rewarding and fulfilling.  But this isn't about my journey - it's about yours! 
  <!-- n n    jxxxxxcvkl,ll,,mkk, -->
-I'd love it if you connected with me on Twitter - my handle is [@mrjaypeasmith](https://twitter.com/mrjaypeasmith) and 
+I'd love it if you connected with me on Twitter - my handle is [@mrjaypeasmith](https://twitter.com/mrjaypeasmith) - and on [LinkedIn](https://www.linkedin.com/in/jermainepaulsmith/) if you have a profile. 
 
 ### Equipment you will find helpful
 
-In order to access the resources, I recommend:
+In order to access the resources shsared in this programme, I recommend:
 
 - a computer
 - a smartphone
@@ -34,11 +34,11 @@ The initial part of the programme won't require any installation of software.  B
 
 #### Create a GitHub Account
 
-You should setup a GitHub account.  GitHub is platform where code is stored and shared for projects big and small.  Having an account will be useful as you can use it as a gateway to a large number of programming resoruces.  By having a GitHub account you won't have to have uniqiue login credentials for other websites you use where GitHub authentication is supported. 
+You should setup a [GitHub](https://github.com/) account.  GitHub is platform where code is stored and shared for projects big and small.  Having an account will be useful as you can use it as a gateway to a large number of programming resoruces.  By having a GitHub account you won't have to have uniqiue login credentials for other websites you use where GitHub authentication is supported. 
 
 #### Install a code editor
 
-You can write code in simple text editors but your experience will be enahced if you use a code editor.  There are some such as [repl.it](https://repl.it) and [codepen](https://codepen.io) which are browser based where you don't have to download anything to your computer to write code.  This are really useful tools particularly for small examples, sharing code or where you are working on a work laptop and cannot instal applications yourself. We will explore broweser based code editors where needed. 
+You can write code in simple text editors but your experience will be enahced if you use a code editor.  There are some such as [repl.it](https://repl.it) and [codepen](https://codepen.io) which are browser based where you don't have to download anything to your computer to write code.  These are really useful tools particularly for small examples, sharing code or where you are working on a work laptop and cannot instal applications yourself. We will explore broweser based code editors where needed. 
 
 You may find that eventually you reach the contraints of browser based code editors and want to install something locally. _I recommend that you install_ [VS Code](https://code.visualstudio.com/download) - it is a superb free code editor and has a lot of tools and plugins to boost your productivity. 
 
@@ -66,6 +66,8 @@ If you want more video resources then I recommend this [Python Crash Course](htt
 
 The best way to learn is to build applications.  Having explored the fundamentals of Python, you are now ready for your first small project. 
 
-.....
+.....coming soon
 
-### Chapter 3: Automating mundane task
+## Chapter 3: Automating tasks at work
+
+.....coming soon
