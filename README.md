@@ -19,13 +19,13 @@ At a high level, I hope to explore the following disciplines with you which are 
 - smart contracts
 
 
-The objective of this programme is not to become a software developer.  There are better resources for that if you are so inclined which I will mention below.  Rather it is to spark your enthusiasm for programming and ultimately, empower you to become a _more effective lawyer_.
+The objective of this programme is not to become a software developer.  There are better resources for that if you are so inclined which I will mention below.  Rather it is to spark your enthusiasm for programming and ultimately, empower you to become a **_more effective lawyer_**.
 
 So, let's begin. 
 
 #### A little bit about me
 
-I'm Jay, a laywer and programmer.  I'm not particularly keen on titles but I gravitate towards what some people describe as a "legal techologist".  I read Economics at university and started my career in law as a paralegal shortly after graduation.  I began my coding journey a few years ago and it has been extremly rewarding and fulfilling. I now work in the blockchain team at Thrings where being able to read and interperet smart contracts will be invaluable (more on that in later chapters). But this isn't just about my journey - it's about yours! 
+I'm Jay, a laywer and coder.  I'm not particularly keen on titles but I gravitate towards what some people describe as a "legal techologist".  I read Economics at university and started my career in law as a paralegal shortly after graduation.  I began my coding journey a few years ago and it has been extremly rewarding and fulfilling. I now work in the blockchain team at Thrings where being able to read and interperet smart contracts will be invaluable (more on that in later chapters). But this isn't just about my journey - it's about yours! 
 
 I'd love it if you connected with me on Twitter - my handle is [@mrjaypeasmith](https://twitter.com/mrjaypeasmith) - and on [LinkedIn](https://www.linkedin.com/in/jermainepaulsmith/) if you have a profile. 
 
@@ -121,7 +121,7 @@ It is important to start with the fundamentals when learning any programming lan
 
 ## Chapter 2: Your first (small) project
 
-The best way to learn is to build applications.  Having explored the fundamentals of Python, you are now ready for your first small project. 
+The best way to learn how to code is to build applications.  Having explored the fundamentals of Python, you are now ready for your first small project. 
 
 .....coming soon
 
