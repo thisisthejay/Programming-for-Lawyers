@@ -2,7 +2,7 @@
 
 An introduction to programming for lawyers!  
 
-_N.B. This programme is open to everyone but has been designed with an emphasis on helping laywers at Thrings LLP learn how to code._
+_N.B. This programme is open to everyone but has been designed with an emphasis on helping lawyers at Thrings LLP learn how to code._
 
 ![Banner](/images/pfllogo.png)
 
@@ -25,7 +25,7 @@ So, let's begin.
 
 #### A little bit about me
 
-I'm Jay, a laywer and coder.  I'm not particularly keen on titles but I gravitate towards what some people describe as a "legal techologist".  I read Economics at university and started my career in law as a paralegal shortly after graduation.  I began my coding journey a few years ago and it has been extremly rewarding and fulfilling. I now work in the blockchain team at Thrings where being able to read and interperet smart contracts will be invaluable (more on that in later chapters). But this isn't just about my journey - it's about yours! 
+I'm Jay, a lawyer and coder.  I'm not particularly keen on titles but I gravitate towards what some people describe as a "legal techologist".  I read Economics at university and started my career in law as a paralegal shortly after graduation.  I began my coding journey a few years ago and it has been extremly rewarding and fulfilling. I now work in the blockchain team at Thrings where being able to read and interperet smart contracts will be invaluable (more on that in later chapters). But this isn't just about my journey - it's about yours! 
 
 I'd love it if you connected with me on Twitter - my handle is [@mrjaypeasmith](https://twitter.com/mrjaypeasmith) - and on [LinkedIn](https://www.linkedin.com/in/jermainepaulsmith/) if you have a profile. 
 
