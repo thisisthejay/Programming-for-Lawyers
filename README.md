@@ -121,9 +121,16 @@ It is important to start with the fundamentals when learning any programming lan
 
 ## Chapter 2: Your first (small) project
 
-The best way to learn how to code is to build applications.  Having explored the fundamentals of Python, you are now ready for your first small project. 
+The best way to learn how to code is to build applications.  Having explored the fundamentals of Python, you are now ready for your first small project.
 
-.....coming soon
+### Getting data from an API
+
+The first project is to use your IP address to confirm when the International Space Station will pass over your (or your servers!) location.
+
+_Hint:_ I created a [repl](https://repl.it/@mrjaypeasmith/Python-API-demo) to show you the code.
+
+**Watch** [this video](https://www.youtube.com/watch?v=eBnnOwjcHw4&t=13s) first and then try re-creating your own.  You can create the same application or, for extra credit, find an API on [this list](https://github.com/public-apis/public-apis) to create something with.
+
 
 ## Chapter 3: Automating tasks at work
 
