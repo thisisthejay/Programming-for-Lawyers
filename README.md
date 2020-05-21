@@ -25,9 +25,9 @@ So, let's begin.
 
 #### A little bit about me
 
-I'm Jay, a lawyer and coder.  I'm not particularly keen on titles but I gravitate towards what some people describe as a "legal techologist".  I read Economics at university and started my career in law as a paralegal shortly after graduation.  I began my coding journey a few years ago and it has been extremly rewarding and fulfilling. I now work in the blockchain team at Thrings where being able to read and interperet smart contracts will be invaluable (more on that in later chapters). But this isn't just about my journey - it's about yours! 
+I'm Jay, a lawyer and coder.  I'm not particularly keen on titles but I gravitate towards what some people describe as a "legal techologist".  I read Economics at university and started my career in law as a paralegal shortly after graduation.  I've since qualified and practice as a Private Client lawyer.  I began my coding journey a few years ago and it has been extremly rewarding and fulfilling. I now work in the Private Client and Blockchain teams at Thrings. For the latter, being able to read and interperet smart contracts will be invaluable (more on that in later chapters). But this isn't just about my journey - it's about yours!
 
-I'd love it if you connected with me on Twitter - my handle is [@mrjaypeasmith](https://twitter.com/mrjaypeasmith) - and on [LinkedIn](https://www.linkedin.com/in/jermainepaulsmith/) if you have a profile. 
+I'd love it if you connected with me on Twitter - my handle is [@mrjaypeasmith](https://twitter.com/mrjaypeasmith) - and on [LinkedIn](https://www.linkedin.com/in/jermainepaulsmith/) if you have a profile.
 
 ### Equipment you will find helpful
 
@@ -36,12 +36,12 @@ In order to access the resources shared in this programme, I recommend that you 
 - a computer
 - a smartphone
 - a fast internet connection
-- headphones 
+- headphones
 - a notebook
 
 ### Setup recommendations
 
-The initial part of the programme won't require any installation of software.  But you may want to work at your own (perhaps faster) pace so I have set out some options below. 
+The initial part of the programme won't require any installation of software.  But you may want to work at your own (perhaps faster) pace so I have set out some options below.
 
 *N.B. You can come back to these recommendations later and get started with [Chapter 1](#chapter-1) after creating your GitHub account and only if you are ready to dive in.*
 
@@ -69,7 +69,7 @@ Here are my top 3 tips:
 
 It is better to code for 5 hours over 5 days than to spend all day on a weekend bingeing.  Developing a regular *habit* will serve you well and make learning more manageable.  
 
-I recommend that you read or listen to [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear. 
+I recommend that you read or listen to [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear.
 
 Setting aside a regular time in your day or throughout the week will help you and manage the expecations of other people around you.  My most productive learning phase was when I used my lunchbreaks for around a year to complete freeCodeCamp's JavaScript exercises.
 
@@ -87,7 +87,7 @@ Once you understand *your* "why" you will give it the priorty it deserves (or mo
 
 **(3) Be accountable**
 
-If you are able to, I recommend that you pair-up with a friend or colleague to learn with.  Learning with someone provides a point of reference for sharing ideas, challenges and some external pressure to keep you motivated. 
+If you are able to, I recommend that you pair-up with a friend or colleague to learn with.  Learning with someone provides a point of reference for sharing ideas, challenges and some external pressure to keep you motivated.
 
 There are two further concepts which helped me become accountable.  These are:
 
