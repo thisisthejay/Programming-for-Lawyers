@@ -25,7 +25,7 @@ So, let's begin.
 
 #### A little bit about me
 
-I'm Jay, a lawyer and coder.  I'm not particularly keen on titles but I gravitate towards what some people describe as a "legal techologist".  I read Economics at university and started my career in law as a paralegal shortly after graduation.  I've since qualified and practice as a Private Client lawyer.  I began my coding journey a few years ago and it has been extremly rewarding and fulfilling. I now work in the Private Client and Blockchain teams at Thrings. For the latter, being able to read and interperet smart contracts will be invaluable (more on that in later chapters). But this isn't just about my journey - it's about yours!
+I'm Jay, a lawyer and coder.  I'm not particularly keen on titles but I gravitate towards what some people describe as a "legal techologist".  I read Economics at university and started my career in law as a paralegal shortly after graduation.  I've since qualified and practice as a Private Client lawyer.  I began my coding journey a few years ago and it has been extremely rewarding and fulfilling. I now work in the Private Client and Blockchain teams at Thrings. For the latter, being able to read and interpret smart contracts will be invaluable (more on that in later chapters). But this isn't just about my journey - it's about yours!
 
 I'd love it if you connected with me on Twitter - my handle is [@mrjaypeasmith](https://twitter.com/mrjaypeasmith) - and on [LinkedIn](https://www.linkedin.com/in/jermainepaulsmith/) if you have a profile.
 
@@ -109,13 +109,14 @@ If we are going to learn how to code, we must pick a programming language!  Pyth
 
 ### Learning the fundamentals
 
-It is important to start with the fundamentals when learning any programming language, particulalry if you've never written code before. 
+It is important to start with the fundamentals when learning any programming language, particularly if you've never written code before. 
 
 **Required**: Take this [free online Python course](https://scrimba.com/course/gpython) on [Scrimba](https://scrimba.com).  Scrimba is a hybrid video tutorial / code editor.  It's important to get used to typing code and Scrimba allows you to do this while you follow along. 
 
-**Recommended**: You should read this [Python Handbook](https://www.freecodecamp.org/news/the-python-guide-for-beginners/) on [freeCodeCamp](https://www.freecodecamp.org) alongside the above course. 
+**Recommended**: The University of Harvard released a free Computer Science video series covering Computer Science topics.  The videos are targeted at lawyers and will provide a solid foundation.  You can watch the videos for free on [Youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T380CIOjHCjIAugO3ryncp6IW) (10+ hours).
 
-**Bonus**: If you want more video resources then I recommend this [Python Crash Course](https://youtu.be/JJmcL1N2KQs) by Brad Traversy.
+**Bonus**: If you want more video resources then I recommend this [Python Crash Course](https://youtu.be/JJmcL1N2KQs) by Brad Traversy.  You should also read this [Python Handbook](https://www.freecodecamp.org/news/the-python-guide-for-beginners/) on [freeCodeCamp](https://www.freecodecamp.org) alongside the above course. 
+
 
 *N.B. I will be learning along with you as I only recently began exploring Python.  We are in this together!*
 
