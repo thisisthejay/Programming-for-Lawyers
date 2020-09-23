@@ -111,7 +111,9 @@ If we are going to learn how to code, we must pick a programming language!  Pyth
 
 It is important to start with the fundamentals when learning any programming language, particularly if you've never written code before. 
 
-**Required**: Take this [free online Python course](https://scrimba.com/course/gpython) on [Scrimba](https://scrimba.com).  Scrimba is a hybrid video tutorial / code editor.  It's important to get used to typing code and Scrimba allows you to do this while you follow along. 
+**Required**: Take this https://www.codecademy.com/learn/learn-python
+
+**Optional**: Take this [free online Python course](https://scrimba.com/course/gpython) on [Scrimba](https://scrimba.com).  Scrimba is a hybrid video tutorial / code editor.  It's important to get used to typing code and Scrimba allows you to do this while you follow along. 
 
 **Recommended**: The University of Harvard released a free Computer Science video series covering Computer Science topics.  The videos are targeted at lawyers and will provide a solid foundation.  You can watch the videos for free on [Youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T380CIOjHCjIAugO3ryncp6IW) (10+ hours).
 
