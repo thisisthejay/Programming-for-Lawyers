@@ -27,7 +27,7 @@ So, let's begin.
 
 I'm Jay, a lawyer and coder.  I'm not particularly keen on titles but I gravitate towards what some people describe as a "legal techologist".  I read Economics at university and started my career in law as a paralegal shortly after graduation.  I've since qualified and practice as a Private Client lawyer.  I began my coding journey a few years ago and it has been extremely rewarding and fulfilling. I now work in the Private Client and Blockchain teams at Thrings. For the latter, being able to read and interpret smart contracts will be invaluable (more on that in later chapters). But this isn't just about my journey - it's about yours!
 
-I'd love it if you connected with me on Twitter - my handle is [@mrjaypeasmith](https://twitter.com/_thisisthejay) - and on [LinkedIn](https://www.linkedin.com/in/jermainepaulsmith/) if you have a profile.
+I'd love it if you connected with me on Twitter - my handle is [@_thisisthejay](https://twitter.com/_thisisthejay) - and on [LinkedIn](https://www.linkedin.com/in/jermainepaulsmith/) if you have a profile.
 
 ### Equipment you will find helpful
 
